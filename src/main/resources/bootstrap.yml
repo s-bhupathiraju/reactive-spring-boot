@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: reactive.spring.boot
+
+swagger:
+  title: Reactive REST APIS
+  description: Rest API using webflux
+  contact:
+    name: Sanjay
+    url: http://www.ebsco.com
+    email: sbhupathiraju@ebsco.com
+  version: 0.0.1
